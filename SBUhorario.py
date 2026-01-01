@@ -5,10 +5,20 @@ pods = ["B", "C", "D", "E", "F", "G",
         "I", "J", "K", "L", "breaker1", "breaker2"]
 
 workers = [
-    "worker1", "worker2", "worker3", "worker4",
-    "worker5", "worker6", "worker7", "worker8",
-    "worker9", "worker10", "worker11", "worker12",
-    "worker13", "worker14"
+    "worker1",  #Bill
+    "worker2",  #Sue
+    "worker3",  #Mark
+    "worker4",  #Syeda
+    "worker5",  #Lisa1
+    "worker6",  #Lisa2
+    "worker7",  #Claudia
+    "worker8",  #Tara
+    "worker9",  #Jamie??
+    "worker10", #....
+    "worker11", #Omar
+    "worker12", #newGuy
+    "worker13", #Alina
+    "worker14", #newGirl
 ]
 
 float_workers = set(["worker11", "worker12", "worker13", "worker14"])
