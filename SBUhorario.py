@@ -2,7 +2,7 @@ import random
 ​
 # List of pods
 pods = ["B", "C", "D", "E", "F", "G",
-        "I", "J", "K", "L",]
+        "I", "J", "K", "L", "breaker1", "breaker2"]
 ​
 #List of arbitrary's workers
 workers = [
